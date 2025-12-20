@@ -1,0 +1,24 @@
+.hero {
+  text-align: center;
+  padding-top: 80px;
+}
+
+.hero p {
+  max-width: 600px;
+  margin: 20px auto 40px;
+}
+
+.btn-primary {
+  display: inline-block;
+  background: var(--accent);
+  color: #000;
+  padding: 14px 28px;
+  border-radius: 10px;
+  font-size: 16px;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.btn-primary:hover {
+  background: var(--accent-dark);
+}
