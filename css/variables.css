@@ -1,5 +1,8 @@
 :root {
-  --primary: #1e1e2f;
-  --accent: #f5c542;
-  --text: #333;
+  --bg: #ffffff;
+  --text: #1f2937;
+  --muted: #6b7280;
+  --accent: #f4c430; /* amarelo do xadrez */
+  --accent-dark: #e0b020;
+  --border: #e5e7eb;
 }
