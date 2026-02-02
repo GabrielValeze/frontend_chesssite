@@ -1,8 +1,12 @@
 :root {
-  --bg: #ffffff;
-  --text: #1f2937;
-  --muted: #6b7280;
-  --accent: #f4c430; /* amarelo do xadrez */
-  --accent-dark: #e0b020;
-  --border: #e5e7eb;
+  --bg: #f7fbfc;
+  --surface: #ffffff;
+  --text: #0f1724;
+  --muted: #64748b;
+  --accent: #06b6d4; /* teal modern */
+  --accent-2: #f7c948; /* amber accent */
+  --accent-dark: #0496a8;
+  --border: #e6eef4;
+  --shadow: 0 6px 20px rgba(2,6,23,0.06);
+  --glass: rgba(255,255,255,0.6);
 }
